@@ -3,3 +3,4 @@
 ## Team Members:
 Will Macdonald
 Will Coffell
+Connor Chappell
